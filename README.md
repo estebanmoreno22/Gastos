@@ -82,16 +82,11 @@ node index.js
 Frontend:
 npm run dev
 
-📸 Capturas
-🔐 Login
-
-💰 Panel financiero
-
 📊 Resumen
 
 🌍 Deploy
-🔵 Frontend: (pendiente)
-🟢 Backend: (pendiente)
+🔵 Frontend: (gastos-neon.vercel.app)
+🟢 Backend: (https://pigbank-backend.onrender.com)
 👨‍💻 Autor
 
 Esteban Moreno
