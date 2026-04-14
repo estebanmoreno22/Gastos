@@ -63,6 +63,7 @@ T4/
 │
 ├── App.jsx
 └── main.jsx
+```
 
 ⚙️ Instalación
 git clone https://github.com/estebanmoreno22/Gastos.git
