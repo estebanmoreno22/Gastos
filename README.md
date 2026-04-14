@@ -35,7 +35,7 @@ Render (Backend)
 MongoDB Atlas (Base de datos)
 
 📁 Estructura del proyecto
-
+```
 T4/
 ├── backend/
 │   ├── models/
